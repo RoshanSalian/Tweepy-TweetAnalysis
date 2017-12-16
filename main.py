@@ -8,12 +8,12 @@ from textblob import TextBlob
 class TwitterClient(object):
     def __init__(self):
         # Twitter Key
-        consumer_key = 'qO5pWf7GX2MdZWTGYMucGjja5'
-        consumer_secret = '63lQ1gTOQUFlp1nXW7xksGAzvJoOTmC6SAnrFv2X5WpW80UPy1'
+        consumer_key =
+        consumer_secret =
 
         # Twitter Access Token
-        access_token = '2206942992-z44Iw11FnF3xH9YaO3qxh8P7CqECCETrVrGiGmN'
-        access_token_secret = 'HoiIwYfuUMckiR8kurSfluhDT9CocqxmLdcQawFUScWx9'
+        access_token =
+        access_token_secret = 
 
         try:
             # Twitter Authentication
